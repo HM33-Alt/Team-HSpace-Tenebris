@@ -17,7 +17,7 @@
 
 ## Use of Artificial Intelligence
 *Did you utilize any Artificial Intelligence tools and software in preparing your project? If yes, provide the sources and how you used them. (The answer to this question will not impact the judging of your project.)*
-- Yes. ChatGPT (for web design help, reading and understanding scientific articles and generating ideas) and Microsoft Designer (AI-generated art of Tenebris)
+- Yes. **ChatGPT** (for web design help, reading and understanding scientific articles and generating ideas) and **Microsoft Designer** (AI-generated art of Tenebris)
 
 ## Space Agency Data
 *Please list the resources used. You are welcome to use any open data in your project. However, to be eligible for a Global Award, you must use data or resources from NASA.*
