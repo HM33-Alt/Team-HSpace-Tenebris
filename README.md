@@ -7,7 +7,7 @@
 [Visit the Tenebris Project](https://team-hspace.vercel.app/)
 
 ## Slide Presentation
-[Download Slides Here](https://team-hspace.vercel.app/) or on the **Live Site**
+[Download Slides Here](https://team-hspace.vercel.app/)
 
 ## Project Details
 *Provide additional details about your project. What exactly does it do? How does it work? What benefits does it have? What do you hope to achieve? What tools, coding languages, hardware, or software did you use to develop your project?*
