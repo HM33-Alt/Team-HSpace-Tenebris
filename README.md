@@ -1,4 +1,4 @@
-# Tenebris: An Aquatic Chemosynthetic World
+# A Spacefarer's Guide To Planet Tenebris
 
 **Team HSpace (Singapore)**  
 *NASA Space Apps 2024 - Beyond Sunlight: An Aquatic Chemosynthetic World*
