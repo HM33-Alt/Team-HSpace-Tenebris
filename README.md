@@ -4,7 +4,7 @@
 *NASA Space Apps 2024 - Beyond Sunlight: An Aquatic Chemosynthetic World*
 
 ## Live Site
-[Visit the Tenebris Project](https://team-hspace.vercel.app/)
+[Visit the Tenebris Project](https://tenebris-hspace.vercel.app/)
 
 ## Slide Presentation
 [Download Slides Here](https://team-hspace.vercel.app/)
