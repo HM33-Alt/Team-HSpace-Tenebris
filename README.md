@@ -4,10 +4,10 @@
 *NASA Space Apps 2024 - Beyond Sunlight: An Aquatic Chemosynthetic World*
 
 ## Live Site
-[Visit the Tenebris Project](https://tenebris-hspace.vercel.app/)
+[Click Here](https://tenebris-hspace.vercel.app/)
 
-## Slide Presentation
-[Download Slides Here](https://team-hspace.vercel.app/)
+## Presentation Slides
+[Click Here](https://tenebris-hspace.vercel.app/)
 
 ## Project Details
 *Provide additional details about your project. What exactly does it do? How does it work? What benefits does it have? What do you hope to achieve? What tools, coding languages, hardware, or software did you use to develop your project?*
