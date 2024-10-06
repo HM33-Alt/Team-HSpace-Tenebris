@@ -7,7 +7,7 @@
 [Click Here](https://tenebris-hspace.vercel.app/)
 
 ## Presentation Slides
-[Click To Download](https://github.com/HM33-Alt/NASA-Space-Apps-Website/blob/main/A%20Spacefarer%20Guide%20To%20Planet%20Tenebris.pdf)
+[Click To Download](https://github.com/HM33-Alt/NASA-Space-Apps-Website/raw/main/A%20Spacefarer%20Guide%20To%20Planet%20Tenebris.pdf)
 
 ## Project Details
 *Provide additional details about your project. What exactly does it do? How does it work? What benefits does it have? What do you hope to achieve? What tools, coding languages, hardware, or software did you use to develop your project?*
